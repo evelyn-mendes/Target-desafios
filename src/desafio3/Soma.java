@@ -8,7 +8,7 @@ public class Soma {
 
         while(k < indice){
 
-            k += 1;
+            k ++;
 
             soma += k;
         }
