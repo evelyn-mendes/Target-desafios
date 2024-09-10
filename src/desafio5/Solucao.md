@@ -7,7 +7,7 @@
 
 > Logo entraria na `sala 1`.
 
- ## <b style= "color: #00BFFF;"> Possibilidade 1: </b> 
+ ## <b style= "color: #00BFFF;">-> Possibilidade 1: </b> 
  - <b style= "color: #FF6347;"> Caso a lâmpada, da `sala 1` estivesse </b> <b style= "color: gray;"> desligada </b>, <b> mas quente </b>, o interruptor da `sala 1` seria o `interruptor 1`.
 
 > Logo sairia da `sala 1` e entraria na `sala 2`
@@ -24,7 +24,7 @@
 
 <br> 
 
-## <b style= "color: #00BFFF;"> Possibilidade 2: </b> 
+## <b style= "color: #00BFFF;">-> Possibilidade 2: </b> 
 
 - <b style= "color: #FFD700;"> Caso a lâmpada, da `sala 1`, estivesse acesa </b>, o `interruptor 2` seria da `sala 1`.
 
