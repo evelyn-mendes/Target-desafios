@@ -21,7 +21,7 @@ public class VerificadorString {
             }
         }
 
-        System.out.println(">> Quantidade de ocorrências da letra 'a' é: " + cont + "\n");
+        System.out.println(">> Quantidade de ocorrências da letra 'a' é: " + cont + "\n\n");
 
     }
 
